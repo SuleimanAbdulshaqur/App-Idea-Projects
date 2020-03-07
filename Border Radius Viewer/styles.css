@@ -1,0 +1,16 @@
+.border-box {
+    width: 70%;
+    height: 350px;
+    margin: auto;
+    position: relative;
+}
+
+.fish {
+    
+    width: 70%;
+    height: 70%;
+    border: #ffc107 solid 10px;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}

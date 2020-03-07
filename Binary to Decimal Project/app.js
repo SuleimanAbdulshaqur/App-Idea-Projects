@@ -15,6 +15,7 @@ document.getElementById('convert-btn').addEventListener('click', function(e){
         ui.showError('Not a Binary Number/Longer than 8 digits');
     }
     
+    e.preventDefault();
 
 });
 
